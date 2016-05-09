@@ -1,10 +1,5 @@
 package com.amazonaws.labs.sampleapp;
 
-dada
-asdsadasd;;;sddas
-asdasdsadasdassss________---__sadastzt67589  79 0pdas21 = == .s
-import aaaaaa
-asdsadasdsadsa adsad as
 
 import java.util.ArrayList;
 import java.util.Collections;
